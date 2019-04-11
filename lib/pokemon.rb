@@ -10,7 +10,7 @@ class Pokemon
   end
 
   def self.save
-    
+    Pokemon.new 
   end
 
 end
