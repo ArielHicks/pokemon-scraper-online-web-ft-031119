@@ -1,8 +1,8 @@
 -- Write your sql commands to create your db schema here.
 -- It should create a new table in the db/ directory.
-.schema
-CREATE TABLE pokemon (
-  id INTEGER PRIMARY KEY,
-      name TEXT,
-      skill TEXT
-    );
+-- .schema
+-- CREATE TABLE pokemon (
+--   id INTEGER PRIMARY KEY,
+--       name TEXT,
+--       skill TEXT
+--     );
