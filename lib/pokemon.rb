@@ -3,7 +3,7 @@ class Pokemon
   attr_accessor :name,
   @@all = []
 
-  def initialize(argument)
+  def initialize(name)
     @argument = argument
     @@all << self
   end
