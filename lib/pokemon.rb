@@ -4,7 +4,7 @@ class Pokemon
   @@all = []
 
   def initialize(name)
-    @name = argument
+    @name = name
     @@all << self
   end
 
